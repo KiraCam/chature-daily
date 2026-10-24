@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiracam.github.io/chature-daily/sitemap.xml
